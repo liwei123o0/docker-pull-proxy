@@ -1,5 +1,5 @@
-langgenius/dify-api:1.0.0 registry.cn-hangzhou.aliyuncs.com/li_gpt/dify-api:1.0.0
-langgenius/dify-web:1.0.0 registry.cn-hangzhou.aliyuncs.com/li_gpt/dify-web:1.0.0
-langgenius/dify-sandbox:0.2.10 registry.cn-hangzhou.aliyuncs.com/li_gpt/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.1-local registry.cn-hangzhou.aliyuncs.com/li_gpt/dify-plugin-daemon:0.0.1-local
-langgenius/qdrant:v1.7.3 registry.cn-hangzhou.aliyuncs.com/li_gpt/qdrant:v1.7.3
+langgenius/dify-api:1.0.0 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-api:1.0.0
+langgenius/dify-web:1.0.0 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-web:1.0.0
+langgenius/dify-sandbox:0.2.10 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.1-local crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-plugin-daemon:0.0.1-local
+langgenius/qdrant:v1.7.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/qdrant:v1.7.3
