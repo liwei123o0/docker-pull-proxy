@@ -1,8 +1,9 @@
-langgenius/dify-api:0.15.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-api:0.15.3
-langgenius/dify-web:0.15.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-web:0.15.3
-langgenius/dify-sandbox:0.2.10 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.1-local crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-plugin-daemon:0.0.1-local
-langgenius/qdrant:v1.7.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/qdrant:v1.7.3
-langgenius/dify-plugin-daemon:0.0.2-local crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-plugin-daemon:0.0.2-local
-docker.n8n.io/n8nio/n8n crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/n8n
-unclecode/crawl4ai crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/crawl4ai
+# langgenius/dify-api:0.15.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-api:0.15.3
+# langgenius/dify-web:0.15.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-web:0.15.3
+# langgenius/dify-sandbox:0.2.10 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-sandbox:0.2.10
+# langgenius/dify-plugin-daemon:0.0.1-local crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-plugin-daemon:0.0.1-local
+# langgenius/qdrant:v1.7.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/qdrant:v1.7.3
+# langgenius/dify-plugin-daemon:0.0.2-local crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-plugin-daemon:0.0.2-local
+# docker.n8n.io/n8nio/n8n crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/n8n
+# unclecode/crawl4ai crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/crawl4ai
+bitnamicharts/milvus crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvus
