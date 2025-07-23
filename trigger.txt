@@ -1,2 +1,1 @@
 bitnamicharts/milvus crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvus
-milvusdb/milvus crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb
