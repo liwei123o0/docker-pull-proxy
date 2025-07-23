@@ -1,2 +1,2 @@
-langgenius/dify-api:0.15.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify
+langgenius/dify crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify
 bitnamicharts/milvus crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvus
