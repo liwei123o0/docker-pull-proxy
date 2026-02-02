@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.15-gpu crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvus:v2.5.15-gpu
+docker.io/library/node:22-bookworm crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/node:22-bookworm
