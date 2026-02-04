@@ -1,8 +1,2 @@
-postgres:15-alpine crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/postgres:15-alpine
-quay.io/coreos/etcd:v3.5.5 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/minio:RELEASE.2023-03-20T20-16-18Z
-redis:6-alpine crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/redis:6-alpine
-busybox:latest crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/busybox:latest
-nginx:latest crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/nginx:latest
-milvusdb/milvus:v2.6.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb/milvus:v2.6.3
-ubuntu/squid:latest crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb/ubuntu/squid:latest
+milvusdb/milvus:v2.6.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb/milvus:20260204
+ubuntu/squid:latest crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb/ubuntu/squid:20260204
