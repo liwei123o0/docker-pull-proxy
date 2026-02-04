@@ -1,2 +1,2 @@
 milvusdb/milvus:v2.6.3 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb/milvus:20260204
-ubuntu/squid:latest crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/milvusdb/ubuntu/squid:20260204
+ubuntu/squid:latest crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/ubuntu/squid:20260204
