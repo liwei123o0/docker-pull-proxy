@@ -1,1 +1,2 @@
-docker.io/library/node:22-bookworm crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/node:22-bookworm
+langgenius/dify-api:1.12.0 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-api:1.12.0
+langgenius/dify-web:1.12.0 crpi-98xm83y863otgb4a.cn-hangzhou.personal.cr.aliyuncs.com/li_gpt/dify-web:1.12.0
